@@ -1,0 +1,51 @@
+body {
+    background: #333;
+}
+
+.box {
+    background: white;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+    top: 200px;
+}
+
+.box:hover {
+    background: red;
+}
+
+/* 
+TRANSITIONAL PROPERTIES 
+-Properties that have an identifiable half way point
+
+background-color
+background-position
+border-color
+border-width
+border-spacing
+bottom
+color
+font-size
+font-weight
+height left
+letter-spacing
+line-height
+margin
+max-height
+max-width
+min-height
+min-width
+opacity
+ouline-color
+ouline-offset
+ouline-width
+padding right
+text-indent
+text-shadow
+top
+vertical-align
+visibility
+width
+word-spacing
+z-index */
